@@ -1,0 +1,33 @@
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe.config
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.pdb
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.AssemblyReference.cache
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Form1.resources
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Properties.Resources.resources
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.GenerateResource.cache
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.exe
+C:\Users\smoth\source\repos\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.pdb
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe.config
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.pdb
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.AssemblyReference.cache
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Form1.resources
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Properties.Resources.resources
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.GenerateResource.cache
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.exe
+C:\Users\smoth\Desktop\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.pdb
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe.config
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.exe
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\bin\Debug\Proiect-nou-cSharp.pdb
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.AssemblyReference.cache
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.SuggestedBindingRedirects.cache
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Form1.resources
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect_nou_cSharp.Properties.Resources.resources
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.GenerateResource.cache
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.CoreCompileInputs.cache
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.exe
+E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.pdb

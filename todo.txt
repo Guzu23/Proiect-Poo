@@ -1,0 +1,4 @@
+• implementare reguli noi de joc respectiv variante diferite de vizualizare (ex. imaginea de mai jos)
+(10a+5b)
+	* variante noi de vizualizare (5a+5b)
+//pathfinding
