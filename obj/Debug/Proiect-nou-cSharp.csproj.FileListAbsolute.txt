@@ -31,3 +31,7 @@ E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-n
 E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.csproj.CoreCompileInputs.cache
 E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.exe
 E:\Cloud\Projects\Proiect POO\Proiect POO\Proiect-nou-cSharp\obj\Debug\Proiect-nou-cSharp.pdb
+C:\Users\smoth\Documents\GitHub\Proiect-Poo\obj\Debug\Proiect-nou-cSharp.csproj.AssemblyReference.cache
+C:\Users\smoth\Documents\GitHub\Proiect-Poo\obj\Debug\Proiect-nou-cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoth\Documents\GitHub\Proiect-Poo\obj\Debug\Proiect-nou-cSharp.exe
+C:\Users\smoth\Documents\GitHub\Proiect-Poo\obj\Debug\Proiect-nou-cSharp.pdb
